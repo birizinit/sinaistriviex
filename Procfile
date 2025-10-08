@@ -1,1 +1,1 @@
-worker: python sinais.py
+worker: python app.py
