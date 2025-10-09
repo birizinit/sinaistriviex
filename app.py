@@ -11,8 +11,8 @@ CHAT_ID = -1003063576776
 bot = Bot(token=TOKEN)
 
 # Imagens
-IMG1 = "https://i.postimg.cc/DwBgLwdy/imagem1.jpg"
-IMG2 = "https://i.postimg.cc/tgcNvvMK/imagem2.jpg"
+IMG1 = "https://triviex.netlify.app/img/imagem1.jpg"
+IMG2 = "https://triviex.netlify.app/img/imagem2.jpg"
 
 # Timezone de São Paulo
 TZ = pytz.timezone("America/Sao_Paulo")
@@ -87,7 +87,7 @@ Não dorme no ponto! Última sessão pra fechar o dia no azul! 💸"""),
     (19, 45, "text", """⏰ Faltam 15 minutos pro show da noite começar.
 Não dorme no ponto! Última sessão pra fechar o dia no azul! 💸"""),
 
-    (20, 0, "photo", (IMG2, """🔴 AO VIVO AGORA COM O BYNEX CLUB
+    (20, 0, "photo", (IMG2, """🔴 AO VIVO AGORA COM O TRIVIEX CLUB
 Última leitura do dia. Vamos buscar mais vitórias!""")),
 
     (20, 0, "text", """🚩 SEGREDO PARA SER LUCRATIVO A LONGO PRAZO 💵
